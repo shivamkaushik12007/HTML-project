@@ -1,1 +1,1 @@
-# Basic HTML projectusing! (css and JavaScript)
+# Basic HTML(css and JavaScript) project!
